@@ -1,7 +1,3 @@
-Based on your GitHub repositories, here's a draft README file for your GitHub profile:
-
----
-
 # Welcome to Arbel Amram's GitHub Profile!
 
 👋 Hi there! I'm **Arbel Amram**, a software developer from Tel Aviv, Israel. I love creating efficient and user-friendly applications using various technologies.
