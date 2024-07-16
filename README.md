@@ -29,8 +29,4 @@
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/arbelamram)
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
-
----
-
-This README highlights your key projects and skills. You can customize it further as needed.
+Feel free to explore my repositories and contact me if you'd like to collaborate!
