@@ -5,7 +5,7 @@
 ## 📂 Repositories
 
 ### 1. [Pytest Rest API](https://github.com/ArbelAmram/pytest-rest-api)
-- **Description:** REST API tests using pytest and requests modules.
+- **Description:** REST API tests using Pytest and requests modules.
 - **Languages:** Python
 
 ### 2. [URL Shortener](https://github.com/ArbelAmram/url-shortener)
@@ -22,7 +22,7 @@
 
 ## 💻 Skills and Technologies
 - **Front-end:** ReactJS, JavaScript, HTML, CSS
-- **Back-end:** NodeJS, ExpressJS, MongoDB
+- **Back-end:** Python, NodeJS, ExpressJS, MongoDB
 - **Testing:** Pytest
 - **Others:** Git, GitHub, REST APIs
 
