@@ -4,11 +4,11 @@
 I love creating efficient and user-friendly web applications using various technologies.
 
 ## 💻 Skills and Technologies
-- **Front-end:** ReactJS, JavaScript, HTML, CSS
-- **Back-end:** Python, NodeJS (ExpressJS)
-- **Data Base:** MySQL, MongoDB, Redis
+- **Front-end:** JavaScript, ReactJS, jQuery, HTML, CSS
+- **Back-end:** Python, PHP, NodeJS (ExpressJS)
+- **Data Base:** MySQL, MariaDB, MSSQL | MongoDB, Redis
 - **Testing:** Unit test, Pytest
-- **Others:** Git, Docker
+- **Others:** Git, Docker, Composer
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/arbelamram)
