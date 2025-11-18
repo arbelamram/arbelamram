@@ -1,7 +1,8 @@
 # Welcome to Arbel Amram's GitHub Profile!
 
-👋 Hi there! I'm **Arbel Amram**, a software developer from Tel Aviv, Israel.</br>
-I love creating efficient and user-friendly web applications using various technologies.
+👋 Hi there! I'm **Arbel Amram**, a Full Stack Developer from Tel Aviv, Israel.</br>
+5+ years of experience building scalable web applications and internal systems. 
+Skilled in backend architecture, database optimization, and full lifecycle development.
 
 ## 💻 Skills and Technologies
 - **Front-end:** JavaScript, ReactJS, jQuery, HTML, CSS
