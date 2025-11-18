@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Arbel Amram**, a Full Stack Developer from Tel Aviv, Israel.
 
-5+ years of experience building scalable web applications and internal systems.
+5+ years of experience building scalable web applications and internal systems.<br>
 Skilled in backend architecture, database optimization, and full lifecycle development.
 
 ## 💻 Skills and Technologies
