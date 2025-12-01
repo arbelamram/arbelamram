@@ -8,11 +8,13 @@ Known for improving system reliability, streamlining operations, and delivering 
 
 
 ## 💻 Skills and Technologies
-- **Front-end:** JavaScript, ReactJS, jQuery, HTML, CSS
-- **Back-end:** Python, PHP, NodeJS (ExpressJS)
-- **Data Base:** MySQL, MariaDB, MSSQL | MongoDB, Redis
+- **Backend:** PHP, Python, NodeJS (ExpressJS)
 - **Testing:** Unit test, Pytest
-- **Others:** Git, Docker, Composer
+- **Databases:** MariaDB, MySQL, MSSQL, MongoDB, Redis
+- **Tools:** Git, Docker, Composer, Cron jobs, Linux, Agile
+- **Frontend:** JavaScript, ReactJS, jQuery, HTML, CSS
+- **Enterprise Systems:** IBM i / AS400
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/arbelamram)
