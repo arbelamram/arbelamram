@@ -11,7 +11,7 @@ Known for improving system reliability, streamlining operations, and delivering 
 - **Backend:** PHP, Python, NodeJS (ExpressJS)
 - **Testing:** Unit test, Pytest
 - **Databases:** MariaDB, MySQL, MSSQL, MongoDB, Redis
-- **Tools:** Git, Docker, Composer, Cron jobs, Linux, Agile
+- **Tools:** Git, Docker, Composer, Cron jobs, Linux
 - **Frontend:** JavaScript, ReactJS, jQuery, HTML, CSS
 - **Enterprise Systems:** IBM i / AS400
 
