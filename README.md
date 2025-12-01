@@ -5,7 +5,6 @@
 5+ years of experience building scalable, high-availability web systems.<br>
 Specializes in backend architecture, multi-database architectures, and enterprise integrations.<br>
 Known for improving system reliability, streamlining operations, and delivering robust end-to-end features.<br>
-Seeking a backend or full-stack role contributing to platform architecture, scalability, and system evolution.<br>
 
 
 ## 💻 Skills and Technologies
