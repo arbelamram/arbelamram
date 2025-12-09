@@ -8,12 +8,12 @@ Known for improving system reliability, streamlining operations, and delivering 
 
 
 ## 💻 Skills and Technologies
-- **Backend:** PHP, Python, NodeJS (ExpressJS)
+- **Backend:** PHP (8+), Python, NodeJS (ExpressJS), REST APIs, Microservices, OOP, Design Patterns
 - **Testing:** Unit test, Pytest
 - **Databases:** MariaDB, MySQL, MSSQL, MongoDB, Redis
-- **Tools:** Git, Docker, Composer, Cron jobs, Linux
-- **Frontend:** JavaScript, ReactJS, jQuery, HTML, CSS
-- **Enterprise Systems:** IBM i / AS400
+- **DevOps & Infrastructure:** Git, Docker, Linux, Automated Scheduling, Shell Scripting
+- **Frontend:** React, JavaScript ES6+, jQuery
+- **Enterprise Systems:** IBM i / AS400, Data Migration, ETL Processes
 
 
 ## 📫 Connect with Me
